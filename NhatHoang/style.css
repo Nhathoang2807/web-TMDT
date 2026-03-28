@@ -1,0 +1,736 @@
+.desktop {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1842px;
+  position: relative;
+}
+
+.desktop .frame {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 1442px;
+  height: 1844px;
+  overflow: hidden;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  width: 1446px;
+  height: 80px;
+  background-color: #d9d9d9;
+}
+
+.desktop .shopping-bag {
+  position: absolute;
+  top: 66px;
+  left: 1335px;
+  width: 38px;
+  height: 33px;
+  display: flex;
+}
+
+.desktop .icon {
+  flex: 1;
+  width: 30.5px;
+}
+
+.desktop .heart {
+  position: absolute;
+  top: 66px;
+  left: 1387px;
+  width: 32px;
+  height: 32px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 614px;
+  left: 36px;
+  width: 92px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .div {
+  position: absolute;
+  top: 512px;
+  left: 43px;
+  width: 326px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 663px;
+  left: 36px;
+  width: 205px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 712px;
+  left: 36px;
+  width: 177px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 757px;
+  left: 36px;
+  width: 143px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .lebron-XXIII-bubble {
+  position: absolute;
+  top: 872px;
+  left: 1085px;
+  width: 355px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 989px;
+  left: 319px;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-6 {
+  top: 944px;
+  left: 397px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .LEBRON-XXIII-EP {
+  top: 945px;
+  left: 14px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img {
+  top: 972px;
+  left: 100px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-EP-2 {
+  top: 933px;
+  left: 49px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-EP-3 {
+  top: 596px;
+  left: 306px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-GS {
+  top: 596px;
+  position: absolute;
+  left: 721px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-LUX-EP {
+  position: absolute;
+  top: 596px;
+  left: 1127px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-ELITE {
+  position: absolute;
+  top: 1161px;
+  left: 306px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-GS-2 {
+  top: 1161px;
+  position: absolute;
+  left: 721px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .LEBRON-XXIII-ALT-GS {
+  position: absolute;
+  top: 1161px;
+  left: 1127px;
+  width: 272px;
+  height: 272px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .image {
+  position: absolute;
+  top: 150px;
+  left: 2px;
+  width: 1438px;
+  height: 334px;
+  aspect-ratio: 4.33;
+}
+
+.desktop .download {
+  top: 1px;
+  left: 89px;
+  width: 39px;
+  height: 39px;
+  aspect-ratio: 1.01;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .download-2 {
+  top: 10px;
+  left: 15px;
+  width: 56px;
+  height: 20px;
+  aspect-ratio: 2.81;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .t-m-ki-m-c-a-h-ng-tr {
+  position: absolute;
+  top: 10px;
+  left: 1060px;
+  width: 374px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .m-i-n-i-b-t {
+  position: absolute;
+  top: 68px;
+  left: 473px;
+  width: 121px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 68px;
+  left: 613px;
+  width: 84px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 68px;
+  left: 681px;
+  width: 99px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 68px;
+  left: 736px;
+  width: 81px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 68px;
+  left: 822px;
+  width: 112px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .search-bar {
+  display: flex;
+  max-width: 720px;
+  width: 310px;
+  height: 56px;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 55px;
+  left: 994px;
+  background-color: #ffffff;
+  border-radius: 28px;
+  overflow: hidden;
+}
+
+.desktop .state-layer {
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.desktop .content-wrapper {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.desktop .content {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.desktop .icon-wrapper {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.desktop .icon-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.desktop .supporting-text-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0px 20px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  margin-left: -16px;
+}
+
+.desktop .supporting-text {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  font-family: var(--m3-body-large-font-family);
+  font-weight: var(--m3-body-large-font-weight);
+  color: #42413b;
+  font-size: var(--m3-body-large-font-size);
+  letter-spacing: var(--m3-body-large-letter-spacing);
+  line-height: var(--m3-body-large-line-height);
+  white-space: nowrap;
+  font-style: var(--m3-body-large-font-style);
+}
+
+.desktop .trailing-elements {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  top: calc(50.00% - 24px);
+  right: 4px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  top: 512px;
+  left: 1222px;
+  width: 190px;
+  height: 45px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .l-c-s-p-x-p {
+  position: absolute;
+  top: 526px;
+  left: 1240px;
+  width: 172px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .filter {
+  position: absolute;
+  top: 523px;
+  left: 1369px;
+  width: 24px;
+  height: 24px;
+}
+
+.desktop .lebron-XXIII {
+  position: absolute;
+  top: 875px;
+  left: 267px;
+  width: 331px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .lebron-XXIII-from {
+  position: absolute;
+  top: 884px;
+  left: 673px;
+  width: 355px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-11 {
+  top: 981px;
+  left: 710px;
+  position: absolute;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-12 {
+  top: 981px;
+  left: 1117px;
+  position: absolute;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-13 {
+  top: 939px;
+  left: 790px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-14 {
+  top: 939px;
+  left: 1190px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .lebron-XXIII-elite {
+  position: absolute;
+  top: 1455px;
+  left: 308px;
+  width: 331px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  top: 1455px;
+  left: 787px;
+  width: 164px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .lebron-XXIII-miami {
+  position: absolute;
+  top: 1455px;
+  left: 1099px;
+  width: 331px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-16 {
+  top: 1507px;
+  left: 386px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-17 {
+  top: 1507px;
+  left: 811px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-18 {
+  top: 1507px;
+  left: 1218px;
+  position: absolute;
+  width: 145px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000096;
+  font-size: 16px;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-19 {
+  top: 1561px;
+  left: 316px;
+  position: absolute;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-20 {
+  top: 1561px;
+  left: 741px;
+  position: absolute;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-21 {
+  top: 1561px;
+  left: 1153px;
+  position: absolute;
+  width: 246px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+}
